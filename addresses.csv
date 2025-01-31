@@ -1,0 +1,17 @@
+cep,logradouro,complemento,unidade,bairro,localidade,uf,estado,regiao,ibge,gia,ddd,siafi
+01001-000,Praça da Sé,lado ímpar,,Sé,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20031-050,Praça Floriano,,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30190-110,Rua Araguari,até 429/430,,Barro Preto,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+40010-000,Avenida da França,,,Comércio,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+50010-000,Avenida Guararapes,,,Santo Antônio,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+60010-000,Avenida Presidente Castelo Branco,de 200/201 a 1999/2000,,Moura Brasil,Fortaleza,CE,Ceará,Nordeste,2304400,,85,1389
+70040-010,Quadra SBN Quadra 1,,,Asa Norte,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+80010-110,Rua Desembargador Westphalen,até 719/0720,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+90010-000,Rua Siqueira Campos,até 944/945,,Centro Histórico,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+95010-200,Beco Jorge Berwanger,,,Medianeira,Caxias do Sul,RS,Rio Grande do Sul,Sul,4305108,,54,8599
+22041-001,Avenida Atlântica,de 2174 a 2634 - lado par,,Copacabana,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30320-130,Rua Santa Fé,,,Sion,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+80240-220,Rua Bruno Filgueira,até 329/330,,Água Verde,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+95170-400,Rua Três de Outubro,,,Centro,Farroupilha,RS,Rio Grande do Sul,Sul,4307906,,54,8655
+30430-540,Praça Santa Terezinha,,,Barroca,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+40340-600,Rua Rocinha do Iapi,,,IAPI,Salvador,BA,Bahia,Nordeste,2927408,,71,3849

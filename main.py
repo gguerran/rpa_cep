@@ -37,6 +37,7 @@ def main():
         """
         ceps_to_addresses()
         addresses = addresses_to_json()
+        logging.info("Enviando E-mails")
         for address in addresses:
             """
             Envia um email para cada endereço encontrado.
